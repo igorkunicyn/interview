@@ -1,6 +1,7 @@
 package lesson_1_1;
 
 public class Main {
+
     public static void main(String[] args) {
         Person person = new Person.Builder()
                 .addFirstName("Igor")
